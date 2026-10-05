@@ -1,0 +1,1814 @@
+{
+  "title": "Demo Store",
+  "navItems": [
+    {
+      "text": "English",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/"
+    },
+    {
+      "text": "Fran\u00e7ais",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/fr/"
+    },
+    {
+      "text": "Espa\u00f1ol",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/es/"
+    },
+    {
+      "text": "Italiano",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/it/"
+    },
+    {
+      "text": "Deutsch",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/de/"
+    },
+    {
+      "text": "\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/ar/"
+    },
+    {
+      "text": "en",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/"
+    },
+    {
+      "text": "fr",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/fr/"
+    },
+    {
+      "text": "es",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/es/"
+    },
+    {
+      "text": "it",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/it/"
+    },
+    {
+      "text": "de",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/de/"
+    },
+    {
+      "text": "ar",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/ar/"
+    },
+    {
+      "text": "EUR (\u20ac)",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/?SubmitCurrency=1&id_currency=2"
+    },
+    {
+      "text": "SAR (SAR)",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/?SubmitCurrency=1&id_currency=3"
+    },
+    {
+      "text": "USD ($)",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/?SubmitCurrency=1&id_currency=1"
+    },
+    {
+      "text": "EUR",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/?SubmitCurrency=1&id_currency=2"
+    },
+    {
+      "text": "SAR",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/?SubmitCurrency=1&id_currency=3"
+    },
+    {
+      "text": "USD",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/?SubmitCurrency=1&id_currency=1"
+    },
+    {
+      "text": "\ue145 Pets",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/3-pets"
+    },
+    {
+      "text": "Grooming",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/6-grooming"
+    },
+    {
+      "text": "Hamster",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/9-hamster"
+    },
+    {
+      "text": "Jerkies",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/10-jerkies"
+    },
+    {
+      "text": "Rubber Toys",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/12-rubber-toys"
+    },
+    {
+      "text": "Pet Bed",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/13-pet-bed"
+    },
+    {
+      "text": "Pet Indoor",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/15-pet-indoor"
+    },
+    {
+      "text": "Clip Leash",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/14-clip-leash"
+    },
+    {
+      "text": "All Brands",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/11-all-brands"
+    },
+    {
+      "text": "Pets",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/3-pets"
+    },
+    {
+      "text": "Grooming",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/6-grooming"
+    },
+    {
+      "text": "Hamster",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/9-hamster"
+    }
+  ],
+  "categories": [
+    {
+      "title": "Shop By Category",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/5-cp_categorylist.jpg",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/5-women"
+    },
+    {
+      "title": "Shop By Category",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/5-cp_categorylist.jpg",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/5-women"
+    },
+    {
+      "title": "Dog Clothes",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/5-cp_categorylist.jpg",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/5-women"
+    },
+    {
+      "title": "Dog Treats",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/35-cp_categorylist.jpg",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/35-dog-treats"
+    },
+    {
+      "title": "Leather Belt",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/36-cp_categorylist.jpg",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/36-leather-belt"
+    },
+    {
+      "title": "Rubber Toys",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/12-cp_categorylist.jpg",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/12-rubber-toys"
+    },
+    {
+      "title": "Pet Bed",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/13-cp_categorylist.jpg",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/13-pet-bed"
+    },
+    {
+      "title": "Clip Leash",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/14-cp_categorylist.jpg",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/14-clip-leash"
+    },
+    {
+      "title": "Pet Indoor",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/15-cp_categorylist.jpg",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/15-pet-indoor"
+    },
+    {
+      "title": "Pet House",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/16-cp_categorylist.jpg",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/16-pet-house"
+    },
+    {
+      "title": "Pets",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/50-medium_default/cat-house-with-hanging-teaser-toy-cat-beds-for-indoor.jpg",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/men/20-64-cat-house-with-hanging-teaser-toy-cat-beds-for-indoor.html#/1-size-s/12-color-camel/20-dimension-60x90cm"
+    },
+    {
+      "title": "Pets",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/50-medium_default/cat-house-with-hanging-teaser-toy-cat-beds-for-indoor.jpg",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/men/20-64-cat-house-with-hanging-teaser-toy-cat-beds-for-indoor.html#/1-size-s/12-color-camel/20-dimension-60x90cm"
+    },
+    {
+      "title": "Dog Clothes",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/53-medium_default/beco-pets-natural-rubber-ball-on-a-rope-dog-toy.jpg",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/men/21-88-beco-pets-natural-rubber-ball-on-a-rope-dog-toy.html#/1-size-s/10-color-red"
+    },
+    {
+      "title": "Dog Clothes",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/53-medium_default/beco-pets-natural-rubber-ball-on-a-rope-dog-toy.jpg",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/men/21-88-beco-pets-natural-rubber-ball-on-a-rope-dog-toy.html#/1-size-s/10-color-red"
+    },
+    {
+      "title": "Foods",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/24-medium_default/pedigree-chicken-vegetables-adult-dry-dog-food.jpg",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/men/1-40-pedigree-chicken-vegetables-adult-dry-dog-food.html#/1-size-s/16-color-yellow/20-dimension-60x90cm"
+    },
+    {
+      "title": "Foods",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/24-medium_default/pedigree-chicken-vegetables-adult-dry-dog-food.jpg",
+      "link": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/en/men/1-40-pedigree-chicken-vegetables-adult-dry-dog-food.html#/1-size-s/16-color-yellow/20-dimension-60x90cm"
+    }
+  ],
+  "productsCount": 45,
+  "products": [
+    {
+      "name": "Cat House with Hanging teaser toy & Cat Beds for Indoor",
+      "price": "$48.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/50-home_default/cat-house-with-hanging-teaser-toy-cat-beds-for-indoor.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Pets Company Rubber Deshedding Dog Bath Hand Band",
+      "price": "$75.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/56-home_default/pets-company-rubber-deshedding-dog-bath-hand-band.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Top-load Hard-sided Pet Travel Carrier Largest Box",
+      "price": "$50.40 Regular price $63.00",
+      "oldPrice": "$63.00",
+      "discount": "-20%",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/65-home_default/top-load-hard-sided-pet-travel-carrier-largest-box.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Voyager Step-in Air Dog Harness - All Weather Mesh Step",
+      "price": "$77.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/79-home_default/voyager-step-in-air-dog-harness-all-weather-mesh-step.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Pets Empire Stainless Steel Dog Feeding Bowl",
+      "price": "$45.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/85-home_default/pets-empire-dog-anti-skid-stainless-steel-bowls.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Pet Calm & Stimulate Saliva Improved Digestive Health",
+      "price": "$42.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/91-home_default/pet-calm-stimulate-saliva-improved-digestive-health.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Pet Believe Combo of 3 Durable Cotton Made Rope Toys",
+      "price": "$61.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/94-home_default/nylon-dumbbell-rope-chew-toy-for-puppies.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Basics Soft-Sided Mesh Pet Carrier | Travel Pet Carrier",
+      "price": "$68.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/103-home_default/basics-soft-sided-mesh-pet-carrier-travel-pet-carrier.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Basics Soft-Sided Mesh Pet Carrier | Travel Pet Carrier",
+      "price": "$68.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/103-home_default/basics-soft-sided-mesh-pet-carrier-travel-pet-carrier.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Pedigree Biscrok Biscuit Treats for Dogs Milk, Chicken Flavour",
+      "price": "$94.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/100-home_default/pedigree-biscrok-biscuit-treats-for-dogs-milk-chicken-flavour.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "KittuPet Watermelon Shaped Fruit Chew Squeaky Dog Toy",
+      "price": "$72.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/97-home_default/kittupet-watermelon-shaped-fruit-chew-squeaky-dog-toy.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Pet Believe Combo of 3 Durable Cotton Made Rope Toys",
+      "price": "$61.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/94-home_default/nylon-dumbbell-rope-chew-toy-for-puppies.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Pet Calm & Stimulate Saliva Improved Digestive Health",
+      "price": "$42.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/91-home_default/pet-calm-stimulate-saliva-improved-digestive-health.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "KittuPet Watermelon Shaped Fruit Chew Squeaky Dog",
+      "price": "$33.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/88-home_default/kittupet-watermelon-shaped-fruit-chew-squeaky-dog.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Pets Empire Stainless Steel Dog Feeding Bowl",
+      "price": "$45.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/85-home_default/pets-empire-dog-anti-skid-stainless-steel-bowls.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Soft Fabric Pet Hut with Center Pillow Sofa Home",
+      "price": "$40.00 Regular price $50.00",
+      "oldPrice": "$50.00",
+      "discount": "-20%",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/83-home_default/soft-fabric-pet-hut-with-center-pillow-sofa-home.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Voyager Step-in Air Dog Harness - All Weather Mesh Step",
+      "price": "$77.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/79-home_default/voyager-step-in-air-dog-harness-all-weather-mesh-step.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Pets Empire Dog Sweaters pet Clothes cat Soft Sweater",
+      "price": "$100.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/78-home_default/pets-empire-dog-sweaters-pet-clothes-cat-soft-sweater.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Cat House with Hanging teaser toy & Cat Beds for Indoor",
+      "price": "$48.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/50-medium_default/cat-house-with-hanging-teaser-toy-cat-beds-for-indoor.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Pets Company Rubber Deshedding Dog Bath Hand Band",
+      "price": "$75.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/56-medium_default/pets-company-rubber-deshedding-dog-bath-hand-band.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Top-load Hard-sided Pet Travel Carrier Largest Box",
+      "price": "$50.40 Regular price $63.00",
+      "oldPrice": "$63.00",
+      "discount": "-20%",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/65-medium_default/top-load-hard-sided-pet-travel-carrier-largest-box.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Voyager Step-in Air Dog Harness - All Weather Mesh Step",
+      "price": "$77.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/79-medium_default/voyager-step-in-air-dog-harness-all-weather-mesh-step.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Pets Empire Stainless Steel Dog Feeding Bowl",
+      "price": "$45.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/85-medium_default/pets-empire-dog-anti-skid-stainless-steel-bowls.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Pet Calm & Stimulate Saliva Improved Digestive Health",
+      "price": "$42.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/91-medium_default/pet-calm-stimulate-saliva-improved-digestive-health.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Pet Believe Combo of 3 Durable Cotton Made Rope Toys",
+      "price": "$61.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/94-medium_default/nylon-dumbbell-rope-chew-toy-for-puppies.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Basics Soft-Sided Mesh Pet Carrier | Travel Pet Carrier",
+      "price": "$68.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/103-medium_default/basics-soft-sided-mesh-pet-carrier-travel-pet-carrier.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Beco Pets Natural Rubber Ball On A Rope Dog Toy",
+      "price": "$60.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/53-medium_default/beco-pets-natural-rubber-ball-on-a-rope-dog-toy.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Pawhuggies Dog Harness For Clasice Large Dogs Belt",
+      "price": "$80.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/62-medium_default/pawhuggies-dog-harness-for-clasice-large-dogs-belt.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Gentle Dog Hair Remover Brush Comb and Cat Brush Mitt",
+      "price": "$74.40 Regular price $93.00",
+      "oldPrice": "$93.00",
+      "discount": "-20%",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/74-medium_default/gentle-dog-hair-remover-brush-comb-and-cat-brush-mitt.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Pets Empire Dog Sweaters pet Clothes cat Soft Sweater",
+      "price": "$100.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/78-medium_default/pets-empire-dog-sweaters-pet-clothes-cat-soft-sweater.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "KittuPet Watermelon Shaped Fruit Chew Squeaky Dog",
+      "price": "$33.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/88-medium_default/kittupet-watermelon-shaped-fruit-chew-squeaky-dog.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Pet Calm & Stimulate Saliva Improved Digestive Health",
+      "price": "$42.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/91-medium_default/pet-calm-stimulate-saliva-improved-digestive-health.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Pedigree Chicken & Vegetables Adult Dry Dog Food",
+      "price": "$40.00 Regular price $50.00",
+      "oldPrice": "$50.00",
+      "discount": "-20%",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/24-medium_default/pedigree-chicken-vegetables-adult-dry-dog-food.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "ZuPreem Nature's Promisetimothy Naturalstm Rabbit Food",
+      "price": "$42.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/60-medium_default/zupreem-timothy-naturals-best-adult-rabbit-food.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Zack Silky Soothe Hypoallergenic Wet Wipes for Dogs and Cats",
+      "price": "$67.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/68-medium_default/zack-silky-soothe-hypoallergenic-wet-wipes-for-dogs-and-cats.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Drools Adult Nutrition And Health Dog Dry Food",
+      "price": "$99.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/71-medium_default/drools-adult-nutrition-and-health-dog-dry-food.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Soft Fabric Pet Hut with Center Pillow Sofa Home",
+      "price": "$40.00 Regular price $50.00",
+      "oldPrice": "$50.00",
+      "discount": "-20%",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/83-medium_default/soft-fabric-pet-hut-with-center-pillow-sofa-home.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Pet Calm & Stimulate Saliva Improved Digestive Health",
+      "price": "$42.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/91-medium_default/pet-calm-stimulate-saliva-improved-digestive-health.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "KittuPet Watermelon Shaped Fruit Chew Squeaky Dog Toy",
+      "price": "$72.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/97-medium_default/kittupet-watermelon-shaped-fruit-chew-squeaky-dog-toy.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Pedigree Biscrok Biscuit Treats for Dogs Milk, Chicken Flavour",
+      "price": "$94.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/100-medium_default/pedigree-biscrok-biscuit-treats-for-dogs-milk-chicken-flavour.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "KittuPet Watermelon Shaped Fruit Chew Squeaky Dog Toy",
+      "price": "$72.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/97-home_default/kittupet-watermelon-shaped-fruit-chew-squeaky-dog-toy.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Pet Believe Combo of 3 Durable Cotton Made Rope Toys",
+      "price": "$61.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/94-home_default/nylon-dumbbell-rope-chew-toy-for-puppies.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Soft Fabric Pet Hut with Center Pillow Sofa Home",
+      "price": "$40.00 Regular price $50.00",
+      "oldPrice": "$50.00",
+      "discount": "-20%",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/83-home_default/soft-fabric-pet-hut-with-center-pillow-sofa-home.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "ZuPreem Nature's Promisetimothy Naturalstm Rabbit Food",
+      "price": "$42.00",
+      "oldPrice": "",
+      "discount": "",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/60-home_default/zupreem-timothy-naturals-best-adult-rabbit-food.jpg",
+      "hoverImg": "",
+      "category": ""
+    },
+    {
+      "name": "Pedigree Chicken & Vegetables Adult Dry Dog Food",
+      "price": "$40.00 Regular price $50.00",
+      "oldPrice": "$50.00",
+      "discount": "-20%",
+      "img": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/24-home_default/pedigree-chicken-vegetables-adult-dry-dog-food.jpg",
+      "hoverImg": "",
+      "category": ""
+    }
+  ],
+  "banners": [
+    {
+      "class": "carousel slide",
+      "text": "Latest Arrivals Everything Your Pet Needs Today Shop Now Latest Arrivals Where Being Pet Just The Best Pet Shop Shop Now \ue5cb \ue5cc",
+      "imgs": [
+        "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_imageslider/views/images/sample-1.webp",
+        "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_imageslider/views/images/sample-2.webp",
+        "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_imageslider/views/images/sample-3.webp"
+      ]
+    },
+    {
+      "class": "slidertext1",
+      "text": "Latest Arrivals",
+      "imgs": []
+    },
+    {
+      "class": "slidertext2",
+      "text": "Everything Your Pet Needs Today",
+      "imgs": []
+    },
+    {
+      "class": "sliderbutton btn btn-primary",
+      "text": "Shop Now",
+      "imgs": []
+    },
+    {
+      "class": "slidertext1",
+      "text": "Latest Arrivals",
+      "imgs": []
+    },
+    {
+      "class": "slidertext2",
+      "text": "Where Being Pet Just The Best Pet Shop",
+      "imgs": []
+    },
+    {
+      "class": "sliderbutton btn btn-primary",
+      "text": "Shop Now",
+      "imgs": []
+    },
+    {
+      "class": "slidertext1",
+      "text": "Latest Arrivals",
+      "imgs": []
+    },
+    {
+      "class": "slidertext2",
+      "text": "Delicious MealsYour FurryFriends",
+      "imgs": []
+    },
+    {
+      "class": "sliderbutton btn btn-primary",
+      "text": "Shop Now",
+      "imgs": []
+    },
+    {
+      "class": "service-cms-banner-list service-1",
+      "text": "Free Fast Delivery Free shipping on orders $100",
+      "imgs": []
+    },
+    {
+      "class": "service-cms-banner-list service-2",
+      "text": "Our Happy Clients Online service center worldwide",
+      "imgs": []
+    },
+    {
+      "class": "service-cms-banner-list service-3",
+      "text": "Best Online Support Return policy available 365 days",
+      "imgs": []
+    },
+    {
+      "class": "service-cms-banner-list service-4",
+      "text": "Secure Payments Online service center worldwide",
+      "imgs": []
+    },
+    {
+      "class": "product_list grid row gridcount product_slider_grid",
+      "text": "Dog Clothes Items(6) Dog Treats Items(20) Leather Belt Items(20) Rubber Toys Items(20) Pet Bed Items(20) Clip Leash Items(20) Pet Indoor Items(20) Pet House Items(20)",
+      "imgs": [
+        "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/5-cp_categorylist.jpg",
+        "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/35-cp_categorylist.jpg",
+        "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/36-cp_categorylist.jpg",
+        "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/12-cp_categorylist.jpg",
+        "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/13-cp_categorylist.jpg",
+        "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/14-cp_categorylist.jpg",
+        "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/15-cp_categorylist.jpg",
+        "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/16-cp_categorylist.jpg"
+      ]
+    }
+  ],
+  "imagesCount": 158,
+  "allImages": [
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/1.jpg",
+      "alt": "English-en",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/2.jpg",
+      "alt": "Fran\u00e7ais-fr",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/3.jpg",
+      "alt": "Espa\u00f1ol-es",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/4.jpg",
+      "alt": "Italiano-it",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/5.jpg",
+      "alt": "Deutsch-de",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/6.jpg",
+      "alt": "\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629-ar",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/1.jpg",
+      "alt": "English-en",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/2.jpg",
+      "alt": "Fran\u00e7ais-fr",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/3.jpg",
+      "alt": "Espa\u00f1ol-es",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/4.jpg",
+      "alt": "Italiano-it",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/5.jpg",
+      "alt": "Deutsch-de",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/6.jpg",
+      "alt": "\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629-ar",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/1.jpg",
+      "alt": "English-en",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/2.jpg",
+      "alt": "Fran\u00e7ais-fr",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/3.jpg",
+      "alt": "Espa\u00f1ol-es",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/4.jpg",
+      "alt": "Italiano-it",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/5.jpg",
+      "alt": "Deutsch-de",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/6.jpg",
+      "alt": "\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629-ar",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/1.jpg",
+      "alt": "English-en",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/2.jpg",
+      "alt": "Fran\u00e7ais-fr",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/3.jpg",
+      "alt": "Espa\u00f1ol-es",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/4.jpg",
+      "alt": "Italiano-it",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/5.jpg",
+      "alt": "Deutsch-de",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/l/6.jpg",
+      "alt": "\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629-ar",
+      "width": 16,
+      "height": 11,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/logo-1745918842.svg",
+      "alt": "Demo Store",
+      "width": 300,
+      "height": 79,
+      "className": "logo"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/themes/PRS03056_2/assets/img/megnor/empty-cart.svg",
+      "alt": "empty-cart",
+      "width": 108,
+      "height": 150,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_imageslider/views/images/sample-1.webp",
+      "alt": "sample-1",
+      "width": 1903,
+      "height": 750,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_imageslider/views/images/sample-2.webp",
+      "alt": "sample-2",
+      "width": 1903,
+      "height": 750,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_imageslider/views/images/sample-3.webp",
+      "alt": "sample-3",
+      "width": 1903,
+      "height": 750,
+      "className": ""
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_cmsbanner1/views/img/cms-banner1.webp",
+      "alt": "cms-banner-1",
+      "width": 446,
+      "height": 320,
+      "className": " ls-is-cached lazyloaded"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_cmsbanner1/views/img/cms-banner2.webp",
+      "alt": "cms-banner-2",
+      "width": 446,
+      "height": 320,
+      "className": " ls-is-cached lazyloaded"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_cmsbanner1/views/img/cms-banner3.webp",
+      "alt": "cms-banner-3",
+      "width": 446,
+      "height": 320,
+      "className": " ls-is-cached lazyloaded"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/5-cp_categorylist.jpg",
+      "alt": "Dog Clothes",
+      "width": 125,
+      "height": 125,
+      "className": "img-responsive ls-is-cached lazyloaded"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/35-cp_categorylist.jpg",
+      "alt": "Dog Treats",
+      "width": 125,
+      "height": 125,
+      "className": "img-responsive ls-is-cached lazyloaded"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/36-cp_categorylist.jpg",
+      "alt": "Leather Belt",
+      "width": 125,
+      "height": 125,
+      "className": "img-responsive ls-is-cached lazyloaded"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/12-cp_categorylist.jpg",
+      "alt": "Rubber Toys",
+      "width": 125,
+      "height": 125,
+      "className": "img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/13-cp_categorylist.jpg",
+      "alt": "Pet Bed",
+      "width": 125,
+      "height": 125,
+      "className": "img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/14-cp_categorylist.jpg",
+      "alt": "Clip Leash",
+      "width": 125,
+      "height": 125,
+      "className": "img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/15-cp_categorylist.jpg",
+      "alt": "Pet Indoor",
+      "width": 125,
+      "height": 125,
+      "className": "img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_categorylist/views/img/16-cp_categorylist.jpg",
+      "alt": "Pet House",
+      "width": 125,
+      "height": 125,
+      "className": "img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/50-home_default/cat-house-with-hanging-teaser-toy-cat-beds-for-indoor.jpg",
+      "alt": "Cat House with Hanging teaser toy & Cat Beds for Indoor",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/56-home_default/pets-company-rubber-deshedding-dog-bath-hand-band.jpg",
+      "alt": "pets company rubber deshedding dog bath hand band",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/65-home_default/top-load-hard-sided-pet-travel-carrier-largest-box.jpg",
+      "alt": "top-load hard-sided pet travel carrier largest box",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/79-home_default/voyager-step-in-air-dog-harness-all-weather-mesh-step.jpg",
+      "alt": "voyager step-in air dog harness - all weather mesh step",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/85-home_default/pets-empire-dog-anti-skid-stainless-steel-bowls.jpg",
+      "alt": "Pets Empire Stainless Steel Dog Feeding Bowl",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/91-home_default/pet-calm-stimulate-saliva-improved-digestive-health.jpg",
+      "alt": "pet calm & stimulate saliva improved digestive health",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/94-home_default/nylon-dumbbell-rope-chew-toy-for-puppies.jpg",
+      "alt": "pet believe combo of 3 durable cotton made rope toys",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/103-home_default/basics-soft-sided-mesh-pet-carrier-travel-pet-carrier.jpg",
+      "alt": "basics soft-sided mesh pet carrier | travel pet carrier",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_cmsbanner2/views/img/cms-banner1.webp",
+      "alt": "cms-banner-1",
+      "width": 1400,
+      "height": 180,
+      "className": "lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/103-home_default/basics-soft-sided-mesh-pet-carrier-travel-pet-carrier.jpg",
+      "alt": "basics soft-sided mesh pet carrier | travel pet carrier",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/100-home_default/pedigree-biscrok-biscuit-treats-for-dogs-milk-chicken-flavour.jpg",
+      "alt": "pedigree biscrok biscuit treats for dogs milk, chicken flavour",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/97-home_default/kittupet-watermelon-shaped-fruit-chew-squeaky-dog-toy.jpg",
+      "alt": "dogit elevated dish, black, large pet food dispenser",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/94-home_default/nylon-dumbbell-rope-chew-toy-for-puppies.jpg",
+      "alt": "pet believe combo of 3 durable cotton made rope toys",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/91-home_default/pet-calm-stimulate-saliva-improved-digestive-health.jpg",
+      "alt": "pet calm & stimulate saliva improved digestive health",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/88-home_default/kittupet-watermelon-shaped-fruit-chew-squeaky-dog.jpg",
+      "alt": "kittupet watermelon shaped fruit chew squeaky dog",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/85-home_default/pets-empire-dog-anti-skid-stainless-steel-bowls.jpg",
+      "alt": "Pets Empire Stainless Steel Dog Feeding Bowl",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/83-home_default/soft-fabric-pet-hut-with-center-pillow-sofa-home.jpg",
+      "alt": "soft fabric pet hut with center pillow sofa home",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/79-home_default/voyager-step-in-air-dog-harness-all-weather-mesh-step.jpg",
+      "alt": "voyager step-in air dog harness - all weather mesh step",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/78-home_default/pets-empire-dog-sweaters-pet-clothes-cat-soft-sweater.jpg",
+      "alt": "pets empire dog sweaters pet clothes cat soft sweater",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/50-medium_default/cat-house-with-hanging-teaser-toy-cat-beds-for-indoor.jpg",
+      "alt": "Cat House with Hanging teaser toy & Cat Beds for Indoor",
+      "width": 200,
+      "height": 200,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 200,
+      "height": 24,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/56-medium_default/pets-company-rubber-deshedding-dog-bath-hand-band.jpg",
+      "alt": "pets company rubber deshedding dog bath hand band",
+      "width": 200,
+      "height": 200,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 200,
+      "height": 24,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/65-medium_default/top-load-hard-sided-pet-travel-carrier-largest-box.jpg",
+      "alt": "top-load hard-sided pet travel carrier largest box",
+      "width": 200,
+      "height": 200,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 200,
+      "height": 24,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/79-medium_default/voyager-step-in-air-dog-harness-all-weather-mesh-step.jpg",
+      "alt": "voyager step-in air dog harness - all weather mesh step",
+      "width": 200,
+      "height": 200,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 200,
+      "height": 24,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/85-medium_default/pets-empire-dog-anti-skid-stainless-steel-bowls.jpg",
+      "alt": "Pets Empire Stainless Steel Dog Feeding Bowl",
+      "width": 200,
+      "height": 200,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 200,
+      "height": 24,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/91-medium_default/pet-calm-stimulate-saliva-improved-digestive-health.jpg",
+      "alt": "pet calm & stimulate saliva improved digestive health",
+      "width": 200,
+      "height": 200,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 200,
+      "height": 24,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/94-medium_default/nylon-dumbbell-rope-chew-toy-for-puppies.jpg",
+      "alt": "pet believe combo of 3 durable cotton made rope toys",
+      "width": 200,
+      "height": 200,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 100,
+      "height": 100,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/103-medium_default/basics-soft-sided-mesh-pet-carrier-travel-pet-carrier.jpg",
+      "alt": "basics soft-sided mesh pet carrier | travel pet carrier",
+      "width": 200,
+      "height": 200,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 100,
+      "height": 100,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/53-medium_default/beco-pets-natural-rubber-ball-on-a-rope-dog-toy.jpg",
+      "alt": "beco pets natural rubber ball on a rope dog toy",
+      "width": 200,
+      "height": 200,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 100,
+      "height": 100,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/62-medium_default/pawhuggies-dog-harness-for-clasice-large-dogs-belt.jpg",
+      "alt": "pawhuggies dog harness for clasice large dogs belt",
+      "width": 200,
+      "height": 200,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 100,
+      "height": 100,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/74-medium_default/gentle-dog-hair-remover-brush-comb-and-cat-brush-mitt.jpg",
+      "alt": "gentle dog hair remover brush comb and cat brush mitt",
+      "width": 200,
+      "height": 200,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 100,
+      "height": 100,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/78-medium_default/pets-empire-dog-sweaters-pet-clothes-cat-soft-sweater.jpg",
+      "alt": "pets empire dog sweaters pet clothes cat soft sweater",
+      "width": 200,
+      "height": 200,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 100,
+      "height": 100,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/88-medium_default/kittupet-watermelon-shaped-fruit-chew-squeaky-dog.jpg",
+      "alt": "kittupet watermelon shaped fruit chew squeaky dog",
+      "width": 200,
+      "height": 200,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 100,
+      "height": 100,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/91-medium_default/pet-calm-stimulate-saliva-improved-digestive-health.jpg",
+      "alt": "pet calm & stimulate saliva improved digestive health",
+      "width": 200,
+      "height": 200,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 100,
+      "height": 100,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/24-medium_default/pedigree-chicken-vegetables-adult-dry-dog-food.jpg",
+      "alt": "Pedigree Chicken & Vegetables Adult Dry Dog Food",
+      "width": 200,
+      "height": 200,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 100,
+      "height": 100,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/60-medium_default/zupreem-timothy-naturals-best-adult-rabbit-food.jpg",
+      "alt": "zupreem nature's promisetimothy naturalstm rabbit food",
+      "width": 200,
+      "height": 200,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 100,
+      "height": 100,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/68-medium_default/zack-silky-soothe-hypoallergenic-wet-wipes-for-dogs-and-cats.jpg",
+      "alt": "captain zack soothe pet wipes dogs & cats",
+      "width": 200,
+      "height": 200,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 100,
+      "height": 100,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/71-medium_default/drools-adult-nutrition-and-health-dog-dry-food.jpg",
+      "alt": "drools adult nutrition and health dog dry food",
+      "width": 200,
+      "height": 200,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 100,
+      "height": 100,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/83-medium_default/soft-fabric-pet-hut-with-center-pillow-sofa-home.jpg",
+      "alt": "soft fabric pet hut with center pillow sofa home",
+      "width": 200,
+      "height": 200,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 100,
+      "height": 100,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/91-medium_default/pet-calm-stimulate-saliva-improved-digestive-health.jpg",
+      "alt": "pet calm & stimulate saliva improved digestive health",
+      "width": 200,
+      "height": 200,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 100,
+      "height": 100,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/97-medium_default/kittupet-watermelon-shaped-fruit-chew-squeaky-dog-toy.jpg",
+      "alt": "dogit elevated dish, black, large pet food dispenser",
+      "width": 200,
+      "height": 200,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 100,
+      "height": 100,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/100-medium_default/pedigree-biscrok-biscuit-treats-for-dogs-milk-chicken-flavour.jpg",
+      "alt": "pedigree biscrok biscuit treats for dogs milk, chicken flavour",
+      "width": 200,
+      "height": 200,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 100,
+      "height": 100,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_cmsbanner4/views/img/cms-banner1.webp",
+      "alt": "cms-banner-1",
+      "width": 685,
+      "height": 320,
+      "className": "lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_cmsbanner4/views/img/cms-banner2.webp",
+      "alt": "cms-banner-2",
+      "width": 685,
+      "height": 320,
+      "className": "lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/97-home_default/kittupet-watermelon-shaped-fruit-chew-squeaky-dog-toy.jpg",
+      "alt": "dogit elevated dish, black, large pet food dispenser",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/94-home_default/nylon-dumbbell-rope-chew-toy-for-puppies.jpg",
+      "alt": "pet believe combo of 3 durable cotton made rope toys",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/83-home_default/soft-fabric-pet-hut-with-center-pillow-sofa-home.jpg",
+      "alt": "soft fabric pet hut with center pillow sofa home",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/60-home_default/zupreem-timothy-naturals-best-adult-rabbit-food.jpg",
+      "alt": "zupreem nature's promisetimothy naturalstm rabbit food",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/24-home_default/pedigree-chicken-vegetables-adult-dry-dog-food.jpg",
+      "alt": "Pedigree Chicken & Vegetables Adult Dry Dog Food",
+      "width": 0,
+      "height": 0,
+      "className": "img-fluid lazyload"
+    },
+    {
+      "src": "",
+      "alt": "hover image",
+      "width": 0,
+      "height": 48,
+      "className": "replace-2x img_1 img-responsive lazyload"
+    },
+    {
+      "src": "",
+      "alt": "Testimonial 1",
+      "width": 45,
+      "height": 45,
+      "className": "lazyload"
+    },
+    {
+      "src": "",
+      "alt": "Testimonial 2",
+      "width": 45,
+      "height": 45,
+      "className": "lazyload"
+    },
+    {
+      "src": "",
+      "alt": "Testimonial 3",
+      "width": 45,
+      "height": 45,
+      "className": "lazyload"
+    },
+    {
+      "src": "",
+      "alt": "Testimonial 4",
+      "width": 45,
+      "height": 45,
+      "className": "lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/m/1.jpg",
+      "alt": "Absolute",
+      "width": 168,
+      "height": 110,
+      "className": "lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/m/2.jpg",
+      "alt": "Homepet",
+      "width": 168,
+      "height": 110,
+      "className": "lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/m/3.jpg",
+      "alt": "Housesitter",
+      "width": 168,
+      "height": 110,
+      "className": "lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/m/7.jpg",
+      "alt": "K9honey",
+      "width": 168,
+      "height": 110,
+      "className": "lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/m/4.jpg",
+      "alt": "Perfect",
+      "width": 168,
+      "height": 110,
+      "className": "lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/m/6.jpg",
+      "alt": "Petrochin",
+      "width": 168,
+      "height": 110,
+      "className": "lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/m/8.jpg",
+      "alt": "Petstablish",
+      "width": 168,
+      "height": 110,
+      "className": "lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/m/5.jpg",
+      "alt": "PondCree",
+      "width": 168,
+      "height": 110,
+      "className": "lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/ets_blog/post/01.jpg",
+      "alt": "Find Fresh Pet Playful Toys, and Grooming Tools in One Place.",
+      "width": 447,
+      "height": 286,
+      "className": "lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/ets_blog/post/02.jpg",
+      "alt": "Premium Grooming Products for a Fresh, Healthy, and Happy Pet",
+      "width": 447,
+      "height": 286,
+      "className": "lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/ets_blog/post/03.jpg",
+      "alt": "Essential Pet Care Items for a Healthier, Happier Companion",
+      "width": 447,
+      "height": 286,
+      "className": "lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/ets_blog/post/04.jpg",
+      "alt": "Everything Your Furry, Feathered, and Scaly Friends Truly Need",
+      "width": 447,
+      "height": 286,
+      "className": "lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/ets_blog/post/05.jpg",
+      "alt": "Trusted Pet Store for Supplying Healthy Foods, and Grooming Supplies",
+      "width": 447,
+      "height": 286,
+      "className": "lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/ets_blog/post/06.jpg",
+      "alt": "Provide the Best Life for Pets with Trusted Product Range",
+      "width": 447,
+      "height": 286,
+      "className": "lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/ets_blog/post/07.jpg",
+      "alt": "Pamper Your Furry Friends with Delicious Treats, Cozy Beds, and Toys",
+      "width": 447,
+      "height": 286,
+      "className": "lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/ets_blog/post/08.jpg",
+      "alt": "Bring Joy to Your Pets with Treats, Apparel, Beds, and More",
+      "width": 447,
+      "height": 286,
+      "className": "lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/ets_blog/post/09.jpg",
+      "alt": "Explore Comfortable Stylish Collars, and Chew Toys for Your Pets Now",
+      "width": 447,
+      "height": 286,
+      "className": "lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/img/ets_blog/post/10.jpg",
+      "alt": "Give Your Beloved Pets the Best Care with Our Quality Products Today",
+      "width": 447,
+      "height": 286,
+      "className": "lazyload"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/24-home_default/pedigree-chicken-vegetables-adult-dry-dog-food.jpg",
+      "alt": "Pedigree Chicken & Vegetables Adult Dry Dog Food",
+      "width": 326,
+      "height": 326,
+      "className": " ls-is-cached lazyloaded"
+    },
+    {
+      "src": "https://prestashop.coderplace.in/PRS03/PRS03056/demo2/modules/cp_footercms1/views/img/payment.png",
+      "alt": "payment.png",
+      "width": 282,
+      "height": 25,
+      "className": "lazyload"
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "alt": "",
+      "width": 1,
+      "height": 1,
+      "className": "lb-image"
+    }
+  ]
+}
